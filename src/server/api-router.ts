@@ -7,6 +7,7 @@ router.use(cors());
 
 router.get("/contests", async (req, res) => {
 	const client = await connectClient();
+
 	const contests = await client
 		.collection("contests")
 		.find()

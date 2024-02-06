@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "funky-nav",
+		"git.ignoreLimitWarning": true,
+		"css.autoValidation": "Save"
+	}
+}

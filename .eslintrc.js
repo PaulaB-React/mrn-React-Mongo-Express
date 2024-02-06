@@ -6,7 +6,7 @@ module.exports = {
   },
   env: {
     browser: true,
-    es6: true,
+    es6: false,
     node: true,
   },
   plugins: ["eslint-plugin-react", "eslint-plugin-react-hooks"],
